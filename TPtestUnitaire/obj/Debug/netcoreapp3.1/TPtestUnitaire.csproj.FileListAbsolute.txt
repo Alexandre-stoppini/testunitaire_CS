@@ -1,0 +1,13 @@
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\bin\Debug\netcoreapp3.1\TPtestUnitaire.exe
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\bin\Debug\netcoreapp3.1\TPtestUnitaire.deps.json
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\bin\Debug\netcoreapp3.1\TPtestUnitaire.runtimeconfig.json
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\bin\Debug\netcoreapp3.1\TPtestUnitaire.runtimeconfig.dev.json
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\bin\Debug\netcoreapp3.1\TPtestUnitaire.dll
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\bin\Debug\netcoreapp3.1\TPtestUnitaire.pdb
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\obj\Debug\netcoreapp3.1\TPtestUnitaire.csprojAssemblyReference.cache
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\obj\Debug\netcoreapp3.1\TPtestUnitaire.AssemblyInfoInputs.cache
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\obj\Debug\netcoreapp3.1\TPtestUnitaire.AssemblyInfo.cs
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\obj\Debug\netcoreapp3.1\TPtestUnitaire.csproj.CoreCompileInputs.cache
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\obj\Debug\netcoreapp3.1\TPtestUnitaire.dll
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\obj\Debug\netcoreapp3.1\TPtestUnitaire.pdb
+C:\Users\stopp\RiderProjects\TPtestUnitaire\TPtestUnitaire\obj\Debug\netcoreapp3.1\TPtestUnitaire.genruntimeconfig.cache
